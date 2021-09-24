@@ -932,7 +932,7 @@ body.offcanvas {
   position: relative;
   height: 300px;
   width: 100%;
-  display: block;
+  /*display: block;*/
   margin-bottom: 30px; }
   .project .desc {
     position: absolute;
